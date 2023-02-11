@@ -1,0 +1,25 @@
+{
+  "name": "Web-Speech-API-Chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyborg92/web-api-chatbot-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Rachit Handa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyborg92/web-api-chatbot-nodejs/issues"
+  },
+  "homepage": "https://github.com/cyborg92/web-api-chatbot-nodejs#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.0"
+  }
+}
