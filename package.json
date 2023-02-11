@@ -1,0 +1,16 @@
+{
+  "name": "web-speech-api-chatbot",
+  "version": "1.0.0",
+  "description": "Building A Simple AI Chatbot With Web Speech API And Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachit handa",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.0"
+  }
+}
